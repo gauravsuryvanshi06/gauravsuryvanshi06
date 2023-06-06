@@ -1,6 +1,5 @@
 
-<p align="left"> <a href="https://twitter.com/gaurav.suryvnshi" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav.suryvnshi?logo=twitter&style=for-the-badge" alt="gaurav.suryvnshi" /></a> </p>
-##OFFICIAL ACCOUNT is [GauravSuryvanshi06](https://github.com/gauravsuryvanshi06)
+<p align="center"> <a href="https://twitter.com/gaurav.suryvnshi" target="blank"><img src="https://img.shields.io/twitter/follow/gaurav.suryvnshi?logo=twitter&style=for-the-badge" alt="gaurav.suryvnshi" /></a> </p>
 
 
 <h1 align="center">Hi 👋, I'm Gaurav Suryavanshi</h1>
